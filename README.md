@@ -24,10 +24,6 @@ We welcome contributions from the community to improve and expand this project f
 
 To get started with this project, clone the repository to your local machine and open the HTML file in your preferred text editor or integrated development environment (IDE). You can then modify the HTML, CSS, or JavaScript files as needed.
 
-**License:**
-
-This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. Please see the LICENSE file for more details.
-
 **Feedback:**
 
 We value feedback from our users and the developer community. If you have any suggestions, feature requests, or bug reports, please don't hesitate to open an issue on GitHub. Your input helps us improve the project for everyone.
